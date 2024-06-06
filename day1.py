@@ -10,4 +10,4 @@ Angkatan= input ('Angkatan Berapa Kamu : ')
 #menampilkan variabel
 print('hallo',Nama )
 print('Nim kamu ',Nim)
-print('Angkatan kamu',Angkatan)
+print('Angkatan kamu',Angkatan)
